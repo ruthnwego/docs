@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Taktile docs",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#493FC1",
+    "light": "#493FC1",
+    "dark": "#493FC1"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -89,8 +89,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/ON=Bright.svg",
+    "dark": "/logo/ON=Dark.svg"
   },
   "navbar": {
     "links": [
